@@ -1,0 +1,30 @@
+.colonka{
+    border:1px solid gray;
+    border-radius: 5px;
+}
+.list-element{
+font-weight: lighter;
+}
+.glavn{
+  font-weight: bold;
+}
+.list-1{
+    font-size: 20px;
+}
+.none-list{
+    list-style: none;
+}
+.absolute{
+    position: absolute;
+    display: flex;
+    top:40px;
+    left: 40px;
+
+}
+.absolute1{
+    position: absolute;
+    display: flex;
+    top:200px;
+    left: 40px;
+
+}
